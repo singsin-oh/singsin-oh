@@ -33,11 +33,11 @@
 
 <br/><br/>
 
-<!-- 🏆 奖杯墙 (TokyoNight 主题) -->
+<!-- 🏆 奖杯墙 (TokyoNight 主题)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=singsin-oh&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=15" width="90%"/>
 </div>
-
+-->
 <br/>
 
 <!-- 🛠 技术栈 -->
